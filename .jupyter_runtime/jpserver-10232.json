@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "password": false,
+  "pid": 10232,
+  "port": 8888,
+  "root_dir": "C:\\Users\\hiba fettache\\projet-maintenance-predictive",
+  "secure": false,
+  "sock": "",
+  "token": "ffe811a2897e104c43fa701076dd16f5aa4df9f31eba46de",
+  "url": "http://localhost:8888/",
+  "version": "2.17.0"
+}
